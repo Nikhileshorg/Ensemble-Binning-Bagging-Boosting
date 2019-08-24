@@ -1,4 +1,4 @@
-For more overview on ensemble models. You can go through this articles. In this articles I have explained clearly on what is an ensemble models, bagging & boosting with examples and underfitting & overfitting in machine learning !!! 
+For more overview on ensemble models. You can go through this articles in Medium. In this articles I have explained clearly on what is an ensemble models, bagging & boosting with examples and underfitting & overfitting in machine learning !!! 
 
 https://medium.com/@sainikhilesh/difference-between-bagging-and-boosting-f996253acd22
 
